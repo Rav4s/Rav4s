@@ -5,3 +5,5 @@ I specialize in writing mission-critical, flight-ready embedded software for spa
 I have experience with several embedded languages, including C, Rust, and C++ for bare-metal, RTOS, and embedded Linux (NixOS) platforms. I thrive in a collaborative development environment, contributing to regular code and design reviews, with extensive Git and CI/CD experience. 
 
 I'm always looking for opportunities to collaborate and work on innovative projects, so please feel free to reach out at ravi.shah@utexas.edu!
+
+🛰️🚀☄️📡
